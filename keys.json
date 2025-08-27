@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "keys": [
+    {
+      "key": "HELLO-2025-DEMO",
+      "active": true,
+      "note": "Key demo gratis",
+      "expires_at": "2026-12-31T23:59:59Z"
+    },
+    {
+      "key": "ABCDEFG-12345-XYZ",
+      "active": true,
+      "note": "Lisensi user premium"
+    },
+    {
+      "key": "TEST-EXPIRED-2024",
+      "active": true,
+      "note": "Key kedaluwarsa",
+      "expires_at": "2024-12-31T23:59:59Z"
+    }
+  ]
+}
